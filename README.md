@@ -6,4 +6,4 @@
 - The model predicts sarcasm based on the padded sequences.
 - Displays either Sarcastic or Not Sarcastic
 
-Open the site here : [Sarcasm Detection]('https://sarcasm-detection-nlp-l44nxsuzhhvt5it3hkju7g.streamlit.app/')
+Open the site here :[Sarcasm Detection]('https://sarcasm-detection-nlp-l44nxsuzhhvt5it3hkju7g.streamlit.app/)
